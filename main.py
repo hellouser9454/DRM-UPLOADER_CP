@@ -43,7 +43,7 @@ except ValueError:
 ADMINS.append(OWNER)
 
 bot = Client("bot",    
-   bot_token="",    
+   bot_token="8441076045:AAGVbACGimezYeghMZXZCr6h_mEOOBHEsJc",    
    api_id=38504611 ,    
    api_hash= "420384645adef5188488fba99dd61df6"
 )
@@ -302,5 +302,6 @@ async def account_login(bot: Client, m: Message):
         await m.reply_text(e)
         
 bot.run()
+
 
 
