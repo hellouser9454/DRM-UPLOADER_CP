@@ -32,10 +32,10 @@ from base64 import b64encode, b64decode
 
 
 credit ="😎𝖘cᾰ𝗺𝗺ⲉ𝗿:)™~" 
-OWNER = int(os.environ.get("OWNER", 7081036509))      #replace your user id 
+OWNER = int(os.environ.get("OWNER", 8272089956))      #replace your user id 
 # try: 
 #     ADMINS=[] 
-#     for x in (os.environ.get("ADMINS", "7081036509 5702090016").split()):     ##replace your user id  (for multiple userid use white space) e.g. "123456 987456" <<- two userid ka example haa yee 
+#     for x in (os.environ.get("ADMINS", "8272089956").split()):     ##replace your user id  (for multiple userid use white space) e.g. "123456 987456" <<- two userid ka example haa yee 
 #         # jitni userid dalni ha usti daloo ...
 #         ADMINS.append(int(x)) 
 # except ValueError: 
